@@ -1,13 +1,23 @@
-.paperella{
+.paperella {
     width: 40px;
 }
 
-.hr{ 
+.hr {
     border-top: 20px solid black;
-   margin: 0px;
+    margin: 0px;
 }
 
-.fs{
+.fs {
     font-size: 12px;
+}
+
+.titolo {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.catalogo-libri {
+    font-size: 20px;
 }
 
